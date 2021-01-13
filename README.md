@@ -18,7 +18,7 @@
 
 Hi, I'm [Pradeep Kumar!](https://prakumk.github.io), Engineering Manager at Qandle.
 
-  <img align="right" alt="GIF" src="https://github.com/prakumk/prakumk/blob/master/img.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/prakumk/prakumk/blob/main/img.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
